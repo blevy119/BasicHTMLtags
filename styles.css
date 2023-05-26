@@ -1,0 +1,12 @@
+img {
+    float: left;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.center {
+    float: center;
+    text-align: center;
+
+}
+
