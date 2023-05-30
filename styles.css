@@ -1,12 +1,26 @@
 img {
     float: left;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-left: 2px;
+    padding-right: 1%;
 }
 
 .center {
     float: center;
     text-align: center;
+    padding-right: 20%;
 
 }
 
+.formStyle {
+    background-color: grey;
+    padding: 15px;
+    padding-left: 35px;
+    float: center;
+}
+
+iframe {
+    float: right;
+    background-color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+}
